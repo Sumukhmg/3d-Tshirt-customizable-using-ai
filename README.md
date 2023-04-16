@@ -20,7 +20,7 @@ To run the website, follow these precise sequence of steps:
 2. Install the required dependencies by running npm install.
 3. Run the client side program usig npm run dev
 3. Start the server by running npm start.
-4. Open the website in your browser by navigating to http://localhost:5000.It will show the message Hello from "SpamByte" which confirms the server is running properly.
+4. Open the website in your browser by navigating to http://localhost:5000. It will show the message Hello from "SpamByte" which confirms the server is running properly.
 
 ## Libraries and Dependencies
 The website uses several libraries and dependencies, including:
