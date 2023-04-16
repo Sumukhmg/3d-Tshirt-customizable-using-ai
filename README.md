@@ -1,4 +1,7 @@
-# 3D T-Shirt Customizer Website
+# 3D T-Shirt Customizer Website   Preview
+![3d-website](https://user-images.githubusercontent.com/108936941/232276512-ad3b1c59-4ee1-444a-a45c-7dcf64f47ced.jpeg)
+
+
 This is a website that allows users to customize their T-shirt designs in a 3D environment. Users can choose from a variety of T-shirt designs and colors, and then add their own custom text and images to the T-shirt. The website uses cutting-edge 3D technology and OpenAI API to provide an immersive and engaging user experience.
 
 ## Stack Description
@@ -25,6 +28,7 @@ The website uses several libraries and dependencies, including:
 - Three.js
 - Node.js
 - OpenAI API
+
 You can install these dependencies by running npm install. Please note that some additional setup may be required to properly configure certain dependencies.
 
 ## Conclusion
