@@ -18,8 +18,9 @@ To run the website, follow these precise sequence of steps:
 
 1. Clone the repository from GitHub.
 2. Install the required dependencies by running npm install.
+3. Run the client side program usig npm run dev
 3. Start the server by running npm start.
-4. Open the website in your browser by navigating to http://localhost:3000.
+4. Open the website in your browser by navigating to http://localhost:5000. It will show the message Hello from "SpamByte" which confirms the server is running properly.
 
 ## Libraries and Dependencies
 The website uses several libraries and dependencies, including:
@@ -28,6 +29,7 @@ The website uses several libraries and dependencies, including:
 - Three.js
 - Node.js
 - OpenAI API
+- HTML and CSS
 
 You can install these dependencies by running npm install. Please note that some additional setup may be required to properly configure certain dependencies.
 
